@@ -4,7 +4,6 @@ public class Methods {
 
 	public static void main(String[] args) {
 		sayiBulmaca();
-		sayiBulmaca();
 	}
 
 	public static void sayiBulmaca() {
